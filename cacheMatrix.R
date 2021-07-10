@@ -1,8 +1,8 @@
 # QUIZ3-PROGRAMMING-ASSIGNMENT
 
-CODE:
-## CACHE MATRIX FUNCTION
+##CODE:
 
+## CACHE MATRIX FUNCTION
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
   set <- function(y) {
